@@ -1,4 +1,4 @@
-# Telling-Stories-w-Data-Repository https://cniedrin.github.io/Telling-Stories-w-Data-Repository/
+# Telling-Stories-w-Data-Repository
 This is my portfolio page for the Telling Stories with Data course at CMU for Fall 2021. 
 
 ## About Me
