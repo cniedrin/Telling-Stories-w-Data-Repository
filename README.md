@@ -13,6 +13,8 @@ I also hope to gain some technical skills using GitHub, Tableau, and other visua
 
 I'm looking forward to learning the creative and technical side of data visualization, and I hope you enjoy viewing all the things I create along the way!
 
+[class visualization example](Data Visualization 
+
 # Portfolio
 
 ## Visualization Assignment (Placeholder)
