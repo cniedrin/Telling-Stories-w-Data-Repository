@@ -17,7 +17,7 @@ I'm looking forward to learning the creative and technical side of data visualiz
 
 # Portfolio
 
-## Visualization Assignment (Placeholder)
+## Visualization Assignment #1
 
 You can access the visualizations I created for the "Visualizing Government Debt" assignment [here](visualization1.md)
 
