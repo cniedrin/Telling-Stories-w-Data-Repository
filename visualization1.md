@@ -14,7 +14,6 @@ Debt to GDP Ratio 1995-2020
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7654970"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 This second Flourish visualization is a population pyramid showing the change in debt-to-GDP ratios from 1995 to 2020 for countries around the world. It also highlights the U.S. change in ratios to point out how our ratio compares to the other countries. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7677265"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
