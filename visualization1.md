@@ -30,9 +30,14 @@ With my third visualization, I wanted to explore the change in value between 199
 I had inititally tried several other visualizations that wouldn't allow me to manipulate the data and colors the way I liked, so I landed on this one. Overall, I'm happy with this visualization as it allowed me to clearly communicate my story. Hopefully, it clearly conveys that the U.S. does not have the largest positive change in debt-to-GDP ratio (with a higher ratio being negative for the country), but it also is not doing much better than most other countries either. 
 
 Sources:
+
 [1] “General Government - General Government Debt - OECD Data.” theOECD. Accessed October 30, 2021. https://data.oecd.org/gga/general-government-debt.htm. 
+
 [2] Ibid.
+
 [3] Berinato, Scott. Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Boston, MA: Harvard Business Review Press, 2016. 
+
 [4] Ibid.
+
 [5] Ibid.
 
