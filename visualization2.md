@@ -10,6 +10,8 @@ However, their visualization of this unemployment data could use some work.
 
 ![text](Georgetown_Unemployment_By_Major.png)
 
+I chose this particular visualization for a couple of reasons. First, the content is interesting to me as someone who has spent a great deal of time in education - as a student and as a teacher - and as someone who strongly supports liberal arts education because I believe it creates more well-rounded individuals. Secondly, I think this visualization has some problems, from the lack of clarity, to the color choices, to the decisions about labels. I wanted the opportunity to analyze what it is that I don't like about this visualization and create a new visualization that clearly conveys the data in the way the it was originally intended. 
+
 ## Step 2: Critique the Visualization
 
 ## Step 3: Wireframe a Solution 
