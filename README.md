@@ -19,9 +19,11 @@ I'm looking forward to learning the creative and technical side of data visualiz
 
 ## Visualization Assignment #1
 
-You can access the visualizations I created for the "Visualizing Government Debt" assignment [here](visualization1.md)
+You can access the visualizations created for the "Visualizing Government Debt" assignment [here](visualization1.md)
 
-## Visualization Assignment (Placeholder)
+## Visualization Assignment #2
+
+Click [here](visualization2.md) to view the visualization and analysis elements of "Assignment 3 & 4: Critique by Design."
 
 ## Final Project Components
 
