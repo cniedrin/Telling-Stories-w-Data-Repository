@@ -34,7 +34,14 @@ I would think that the intended audience, as I identified, would want to see a v
 
 *Answers taken from the Data Visualization Effectiveness Profile Critique submitted via Google Forms*
 
-## Step 3: Wireframe a Solution  
+## Step 3: Wireframe a Solution 
+
+The following images represent my thought process is wireframing my solutions for this visualization. I started with brainstorming and ultimately ended with an idea to do a heat map table to show the severity of unemployment at different educational levels that could also easily show the difference between college majors. 
+
+![text](Sketch 1.png)
+![text](Sketch 2.png)
+![text](Sketch 3.png)
+![text](Sketch 4.png)
 
 ## Step 4: Test the Solution
 
