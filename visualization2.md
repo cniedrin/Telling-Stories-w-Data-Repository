@@ -34,9 +34,7 @@ I would think that the intended audience, as I identified, would want to see a v
 
 *Answers taken from the Data Visualization Effectiveness Profile Critique submitted via Google Forms*
 
-## Step 3: Wireframe a Solution 
-
-[text](Assignment 3_4 Sketches.docx) 
+## Step 3: Wireframe a Solution  
 
 ## Step 4: Test the Solution
 
