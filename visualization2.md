@@ -32,7 +32,7 @@ By definition of the audience I have identified, I would be included in that aud
 
 I would think that the intended audience, as I identified, would want to see a visualization that is clean, easy to read, and quickly shows the trends in unemployment rates between differing majors and levels of educational attainment. This visualization doesn’t accomplish those goals, so I don’t believe it is effective in reaching its intended audience nor does it make its purpose particularly clear.
 
-(Answers taken from the Data Visualization Effectiveness Profile Critique submitted via Google Forms)
+*Answers taken from the Data Visualization Effectiveness Profile Critique submitted via Google Forms*
 
 ## Step 3: Wireframe a Solution 
 
