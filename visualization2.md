@@ -36,6 +36,8 @@ I would think that the intended audience, as I identified, would want to see a v
 
 ## Step 3: Wireframe a Solution 
 
+[text](Assignment 3_4 Sketches.docx) 
+
 ## Step 4: Test the Solution
 
 ## Step 5: Build a Solution
