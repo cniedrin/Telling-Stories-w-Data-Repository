@@ -36,7 +36,7 @@ I would think that the intended audience, as I identified, would want to see a v
 
 ## Step 3: Wireframe a Solution 
 
-The following images represent my thought process is wireframing my solutions for this visualization. I started with brainstorming and ultimately ended with an idea to do a heat map table to show the severity of unemployment at different educational levels that could also easily show the difference between college majors. 
+The following images represent my thought process in wireframing my solutions for this visualization. I started with brainstorming and ultimately ended with an idea to do create a heat map table to show the severity of unemployment at different educational levels while simultaneaously comparing unemployment levels across different college majors. 
 
 ![text](Sketch 1.png)
 ![text](Sketch 2.png)
