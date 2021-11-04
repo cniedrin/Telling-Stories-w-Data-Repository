@@ -15,6 +15,8 @@ I'm looking forward to learning the creative and technical side of data visualiz
 
 [class visualization example](datavizexample.md)
 
+[Tableau visualization example](NewsViz.md)
+
 # Portfolio
 
 ## Visualization Assignment #1
