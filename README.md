@@ -19,11 +19,11 @@ I'm looking forward to learning the creative and technical side of data visualiz
 
 # Portfolio
 
-## Visualization Assignment #1
+## Visualization Assignment #2
 
 Click [here](visualization1.md) to view the visualization and analysis elements for the "Visualizing Government Debt" assignment.
 
-## Visualization Assignment #2
+## Visualization and Critique Assignment #3 & 4
 
 Click [here](visualization2.md) to view the visualization and analysis elements of "Assignment 3 & 4: Critique by Design."
 
