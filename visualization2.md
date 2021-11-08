@@ -43,6 +43,9 @@ The following images represent my thought process in wireframing my solutions fo
 ![text](Sketch 3.png)
 ![text](Sketch 4.png)
 
+After brainstorming, I initially came up with the following heat map prototype. 
+![text]
+
 ## Step 4: Test the Solution
 
 The feeback I received for my initial sketch prompted me to do a second sketch of a visualization, which ultimately ended up being less popular, so I reverted to utilizing a version of my first sketch. The process I went through to obtain feedback follows:
