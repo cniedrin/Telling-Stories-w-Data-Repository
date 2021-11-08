@@ -56,16 +56,10 @@ The feeback I received for my initial sketch prompted me to do a second sketch o
 Questions: *What do you see? What do you think this is showing? Who do you think would find this useful and why? What would you change, if anything?*
 
 Respondant 1: 
-"It categorizes stuff."
-"These are unemployment rates for each major. Architecture is the worst option and not worth my money. Oh, I see there are categories - a couple years of education and graduate degree are the best options."
-"I'd use different colors. I can't really see the differentiation between the two greens and the two reds. It isn't quick to understand with the colors. I might also add the actual percentages, not just colors."
-"This would be good for a high school grad deciding on college majors. Wait, I take that back; maybe someone deciding now after already being out of school for a while."
+"It categorizes stuff."; "These are unemployment rates for each major. Architecture is the worst option and not worth my money. Oh, I see there are categories - a couple years of education and graduate degree are the best options."; "I'd use different colors. I can't really see the differentiation between the two greens and the two reds. It isn't quick to understand with the colors. I might also add the actual percentages, not just colors."; "This would be good for a high school grad deciding on college majors. Wait, I take that back; maybe someone deciding now after already being out of school for a while."
 
 Respondant 2: 
-"I like it!"
-"Wait, nevermind this is confusing."
-"The title makes no sense and I think salary when I read it. It's also not as clear as it should be - would a high schooler look at this and understand it quickly?"
-"I don't see the comparisons between degrees as much as I would with a grouped bar chart. I like that idea better; I thnk it's easier to read."
+"I like it!"; "Wait, nevermind this is confusing."; "The title makes no sense and I think salary when I read it. It's also not as clear as it should be - would a high schooler look at this and understand it quickly?"; "I don't see the comparisons between degrees as much as I would with a grouped bar chart. I like that idea better; I thnk it's easier to read."
 
 At this point, I had two different views of my initial drawing, so I drew the grouped bar chart (pictured above) and asked for a second opinion from Respondant 2 as well as opinions from two more respondants. 
 
@@ -74,14 +68,13 @@ Respondant 2 (cont.):
 
 Respondant 3:
 *referring to the heat map*
-"I'd change the colors to be less Christmas-y; maybe use variations of one color to show change. I'd also put the majors in a different order. Maybe alphabetical or something."
-"The category labels aren't super clear for 'Experienced grad' and 'Degree holder.' I would change those to be more clear. I'd also maybe put 'percent unemployment' in the title to fix the title clarity issue."
+"I'd change the colors to be less Christmas-y; maybe use variations of one color to show change. I'd also put the majors in a different order. Maybe alphabetical or something."; "The category labels aren't super clear for 'Experienced grad' and 'Degree holder.' I would change those to be more clear. I'd also maybe put 'percent unemployment' in the title to fix the title clarity issue."
+
 *referring to the bar chart*
 "The bar chart would have too many categories across the x-axis. I like the heat map better. The comparisons are more clear and it doesn't look as overwhelming as the bar chart."
 
 Respondant 4:
-"I prefer the heat map; it's easier to compare the majors because they're closer together."
-"I'd also change the title because it makes me think I'd see salary ranges, not unemployment rates. And I would come up with clearer educational category labels."
+"I prefer the heat map; it's easier to compare the majors because they're closer together."; "I'd also change the title because it makes me think I'd see salary ranges, not unemployment rates. And I would come up with clearer educational category labels."
 
 Looking at all of this feedback, I decided the heat map was the easiest for most of the respondants to understand and helped them make comparisons more clearly across categories. As far as changes, I needed to change the colors, and create a clearer title and educational category labels. For audience, there seemed to be agreement that it would reach the intended audience reasonably well since it was easier to read and interpret in a heat map format. These were the things I kept in mind as I worked on designing my final visualization. 
 
