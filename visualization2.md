@@ -44,7 +44,10 @@ The following images represent my thought process in wireframing my solutions fo
 ![text](Sketch 4.png)
 
 After brainstorming, I initially came up with the following heat map prototype. 
-![text]
+![text](heat map sketch_1.jpg)
+
+Upon receiving some feedback, I drew a second prototype sketch, this time envisioning the data in a grouped bar chart format.
+![text](bar chart sketch_1.jpg)
 
 ## Step 4: Test the Solution
 
