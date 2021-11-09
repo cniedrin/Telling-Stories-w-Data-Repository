@@ -31,6 +31,8 @@ Click [here](visualization2.md) to view the visualization and analysis elements 
 
 ### Final Project Part I
 
+Click [here](final_project1_cniedrin.md) to view Part I of my final project including the project proposal with initial storyboard and sketches. 
+
 ### Final Project Part II
 
 ### Final Project Part III
