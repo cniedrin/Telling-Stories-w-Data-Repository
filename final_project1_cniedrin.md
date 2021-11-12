@@ -32,7 +32,7 @@ With this in mind, I have the following outline for how I want to convey this st
 - Explain that foundations, as a large source of income for organizations, need to change their practices to be more equitable. Here's what the audience can do:
     1. Learn more about Community Centric Fundraising, which includes ways for organizations to think about taking, or declining, foundation grants to provide more equity and          better outcomes for smaller, BIPOC-led organizations.
     2. Donate your charitable dollars to local, community arts and culture organizations, rather than to multi-million dollar businesses.
-- Concluding statement. Something along these lines -"Together, we can make the arts and cultural sector a more equitable, financially sustainable place for all organizations."
+- Concluding statement. Something along these lines: "Together, we can make the arts and cultural sector a more equitable, financially sustainable place for all organizations."
 
 ## Initial Sketches
 
