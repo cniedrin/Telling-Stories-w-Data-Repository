@@ -11,15 +11,15 @@ With this in mind, I have the following outline for how I want to convey this st
 ### Hook
 
 - "How much do you think gets donated to nonprofit organizations each year?"
-<p>- Call out statistic with the amount of money donated to philanthropy in 2020 - it's in the billions of dollars.
+    - Call out statistic with the amount of money donated to philanthropy in 2020 - it's in the billions of dollars.
 
 ### Introduction
 
 - Discussion of what all that money supports. 
-<p>- *Visualization comparing dollar amounts donated to each 501(c)3 designation in 2020, highlighting Arts and Culture*
+    - *Visualization comparing dollar amounts donated to each 501(c)3 designation in 2020, highlighting Arts and Culture*
 - Discuss the public view on donations to arts and culture - overwhelmingly positive
-<P>- *Visualization of percentage of people who donated to an arts and cultural organization in the last two years.*
-<p>- *Visualization of percentage of people who believe it is important for tax dollars to go towards the arts.*
+    - *Visualization of percentage of people who donated to an arts and cultural organization in the last two years.*
+    - *Visualization of percentage of people who believe it is important for tax dollars to go towards the arts.*
 
 ### Problem Analysis
 
