@@ -8,16 +8,16 @@ In thinking about this project, I decided to focus on funding disparities within
 
 With this in mind, I have the following outline for how I want to convey this story to the audience.
 
-**Hook**
+### Hook
 - "How much do you think gets donated to nonprofit organizations each year?"
     - Call out statistic with the amount of money donated to philanthropy in 2020 - it's in the billions of dollars.
-**Introduction**
+### Introduction
 - Discussion of what all that money supports. 
     - *Visualization comparing dollar amounts donated to each 501(c)3 designation in 2020, highlighting Arts and Culture*
 - Discuss the public view on donations to arts and culture - overwhelmingly positive
     - *Visualization of percentage of people who donated to an arts and cultural organization in the last two years.*
     - *Visualization of percentage of people who believe it is important for tax dollars to go towards the arts.*
-**Problem Analysis**
+### Problem Analysis
 - Despite all this, giving isn't equitable for all arts and cultural organizations.
     - Call out statistic with average percentage of foundation giving that goes to BIPOC-led organizations (it's 2%, which is horrible).
 - Compare this 2% statistic with the overall amount of money given to arts and cultural orgs by foundations in 2018.
@@ -28,7 +28,7 @@ With this in mind, I have the following outline for how I want to convey this st
     - *Visualization showing different in funding for large vs. small organizations and how that relates to the percentage of all organizations those budget allocations make up        in the arts and culture ecosystem*
     - *Visualization showing disparities between rural, low-income, and POC demographics compared to amount of grant funding recieved*
 - Conclude that, clearly, foundations aren't prioritizing smaller, more diverse organizations, despite their claims to be invested in more DEAI initiatives and equity-based practices.
-**Call to Action**
+### Call to Action
 - Explain that foundations, as a large source of income for organizations, need to change their practices to be more equitable. Here's what the audience can do:
     1. Learn more about Community Centric Fundraising, which includes ways for organizations to think about taking, or declining, foundation grants to provide more equity and          better outcomes for smaller, BIPOC-led organizations.
     2. Donate your charitable dollars to local, community arts and culture organizations, rather than to multi-million dollar businesses.
