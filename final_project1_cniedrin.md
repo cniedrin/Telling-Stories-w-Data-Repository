@@ -13,7 +13,7 @@ With this in mind, I have the following outline for how I want to convey this st
     - Call out statistic with the amount of money donated to philanthropy in 2020 - it's in the billions of dollars.
 ### Introduction
 - What does all that money support? 
-    - *Visualization comparing dollar amounts donated to each 501(c)3 designation in 2020, highlighting Arts and Culture
+    - *Visualization comparing dollar amounts donated to each 501(c)3 designation in 2020, highlighting Arts and Culture*
 - Discuss the public view on donations to arts and culture - overwhelmingly positive
     - *Visualization of percentage of people who donated to an arts and cultural organization in the last two years.*
     - *Visualization of percentage of people who believe it is important for tax dollars to go towards the arts.*
