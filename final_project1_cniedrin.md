@@ -4,7 +4,7 @@
 
 In thinking about this project, I decided to focus on funding disparities within the nonprofit arts and culture sector. I utilized one of the suggested strategies from the book - asking myself what I wanted to say or show and then turning that into a statement about what I want to convince people - in order to come to the following project proposal:
 
-"I want to convince my audience that foundation funding disparities in the nonprofit arts and culture sector disproportionately affect BIPOC-led and low-income organizations, hindering their ability to serve their communities."
+*"I want to convince my audience that foundation funding disparities in the nonprofit arts and culture sector disproportionately affect BIPOC-led and low-income organizations, hindering their ability to serve their communities."*
 
 With this in mind, I have the following outline for how I want to convey this story to the audience.
 
