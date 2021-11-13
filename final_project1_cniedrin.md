@@ -71,5 +71,24 @@ For my final, I plan on utilizing Shorthand to creat my presentation. After seei
 In approaching this process, I plan to complete my project in three basic steps: 1. Create all of my visualizations, utilizing the datasets that I discuss in detail above, 2. Choose imagery to be used in the background of my Shorthand presentation that will help emphasize my main ideas, and 3. Write out the text portions of my presentation, keeping in mind to not over utilize text when it isn't necessary. I tend to write more than necessary and have to edit ruthlessly. Having the visualizations and imagery first will help keep me focused in my writing and it will be easier to see where I do and don't need to include extra text. This process will also help as I like to work on projects in pieces, rather than all at once. Currently, I have a detailed outline of what I want to include, so being able to knock out the hard task of creating the visualizations in my head on my computer can happen first and alleviate my own stress. After that, it will be much easier to piece the rest of the project together. 
 
 ## Additional Sources
-The following list is a bibliography of the other sources I have been referencing and will likely utilize in my final project, along with the data previously discussed.
+The following list is a bibliography of the sources I have been referencing and will likely utilize in my final project, excluding the Excel datasets previously discussed.
 
+Candid. “Arts Funding More Concentrated Among Largest Institutions.” Philanthropy News Digest (PND). Accessed November 10, 2021. https://philanthropynewsdigest.org/news/arts-funding-more-concentrated-among-largest-institutions.
+
+NPTrust. “Charitable Giving Statistics.” Accessed November 9, 2021. https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/.
+
+Culture Track. “Culture Track Reports | Explore Culture Track Reports from Years Past.” Accessed November 10, 2021. https://culturetrack.com/research/reports/.
+
+“Diversity-in-the-Arts-The-Past-Present-and-Future-of-African-American-and-Latino-Museums-Dance-Companies-and-Theater-Companies-FINAL.Pdf.” Accessed November 10, 2021. https://www.mcknight.org/wp-content/uploads/Diversity-in-the-Arts-The-Past-Present-and-Future-of-African-American-and-Latino-Museums-Dance-Companies-and-Theater-Companies-FINAL.pdf.
+
+Faulk, Lewis, Mirae Kim, Teresa Derrick-Mills, Elizabeth T. Boris, Laura Tomasko, Nora Hakizimana, Tianyu Chen, Minjung Kim, and Layla Nath. “Nonprofit Trends and Impacts 2021.” Urban Institute, October 6, 2021. https://www.urban.org/research/publication/nonprofit-trends-and-impacts-2021.
+
+Little, Arleta. “Racial Equity in Arts Philanthropy: A Work in Progress.” McKnight Foundation (blog), July 11, 2016. https://www.mcknight.org/news-ideas/racial-equity-arts-philanthropy-work-progress/.
+
+Mukai, Reina. “Arts Funding Snapshot: GIA’s Annual Research on Support for Arts and Culture,” 2021, 12.
+
+Race to Lead. “Nonprofits Led by People of Color Win Less Grant Money With More Strings (Study),” June 17, 2020. https://racetolead.org/nonprofits-led-by-people-of-color-win-less-grant-money-with-more-strings-study/.
+
+“NotJustMoney_Full_Report_July2017.Pdf.” Accessed November 10, 2021. http://notjustmoney.us/docs/NotJustMoney_Full_Report_July2017.pdf.
+
+Stelter, Nathan. “Giving USA 2021: Inside the Numbers,” June 15, 2021. https://blog.stelter.com/2021/06/15/giving-usa-2021-inside-the-numbers/.
