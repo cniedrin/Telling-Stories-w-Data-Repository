@@ -16,7 +16,7 @@ With this in mind, I have the following outline for how I want to convey this st
 ### Introduction
 
 - Discussion of what all that money supports. 
-    - *Visualization comparing dollar amounts donated to each 501(c)3 designation in 2020, highlighting Arts and Culture*
+    - *Visualization comparing dollar amounts donated by category in 2020, highlighting Arts and Culture*
 - Discuss the public view on donations to arts and culture - overwhelmingly positive
     - *Visualization of percentage of people who donated to an arts and cultural organization in the last two years.*
     - *Visualization of percentage of people who believe it is important for tax dollars to go towards the arts.*
@@ -27,7 +27,7 @@ With this in mind, I have the following outline for how I want to convey this st
     - Call out statistic that 2% of all institutions recieved 60% of all foundation funding.
 - Compare this 2% statistic with the overall amount of money given to arts and cultural orgs by foundations in 2018.
     - *Visualization of total amount given by foundations, amount given by top 25 US foundation, and amount given to 2% of cultural orgs.*
-- Show that disparities can be seen in BIPOC-led organizations across artistic product within the arts and cultural sector.
+- Show that disparities can be seen in BIPOC-led organizations across artistic product within the arts and cultural sector. Also, it's a systemic issue - we can see the trend from 2009 to 2013 and it hasn't gotten better since then.
     - *Visualization comparing African American, Latino, and mainstream top 25 dance, theatre, and museum organization's average contributed revenue in each group*
 - Expand on disparities by exemplifying that they don't only run along racial lines; there are also clear disparities in monies awarded based on organizational size and community makeup.
     - *Visualization showing different in funding for large vs. small organizations and how that relates to the percentage of all organizations those budget allocations make up        in the arts and culture ecosystem*
@@ -43,7 +43,7 @@ With this in mind, I have the following outline for how I want to convey this st
 
 ## Initial Sketches
 
-The following drawings represent my initial ideas for the visualizations described above. While I have thought through some color choices, I suspect these will end up changing as I move forward in my project, as may the choice of chart types. In any case, these represent the ideas I want to convey. 
+The following drawings represent my initial ideas for the visualizations described above. While I have thought through some color choices, I suspect these will end up changing as I move forward in my project, as may the choice of chart types. In any case, these represent the ideas I want to convey. I have also included a few notes here or there of things I was thinking about or might want to change in the future, but were fine for these original sketches.  
 
 ![text](FP_1_1.jpg)
 ![text](FP_1_2.jpg)
