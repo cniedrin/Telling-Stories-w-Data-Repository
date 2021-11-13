@@ -43,6 +43,13 @@ With this in mind, I have the following outline for how I want to convey this st
 
 ## Initial Sketches
 
+The following drawings represent my initial ideas for the visualizations described above. While I have thought through some color choices, I suspect these will end up changing as I move forward in my project, as may the choice of chart types. In any case, these represent the ideas I want to convey. 
+
+![text](FP_1_1.jpg)
+![text](FP_1_2.jpg)
+![text](FP_1_3.jpg)
+![text](FP_1_4.jpg)
+
 ## The Data
 
 Because the nonprofit arts and culture sector is so large and is often integrated into economic, social, and other policies, there is a wealth of data from many sources on the topics of philanthropy and foundation support. I have compiled the data source I plan to use in this [Google Drive folder](https://drive.google.com/drive/folders/1oufmfe6f4p8LTpYdwsCzqDitpNCOQFGs?usp=sharing). Included are several Excel spreadsheets containing data, as well as reports that synthesize data while also presenting the original dataset in the report appendices. 
