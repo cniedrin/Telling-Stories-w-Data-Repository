@@ -24,10 +24,10 @@ With this in mind, I have the following outline for how I want to convey this st
 ### Problem Analysis
 
 - Despite all this, giving isn't equitable for all arts and cultural organizations.
-    - Call out statistic with average percentage of foundation giving that goes to BIPOC-led organizations (it's 2%, which is horrible).
+    - Call out statistic that 2% of all institutions recieved 60% of all foundation funding.
 - Compare this 2% statistic with the overall amount of money given to arts and cultural orgs by foundations in 2018.
-    - *Visualization of total amount given by foundations, amount given by top 25 US foundation, and amount given to BIPOC organizations, given the 2% average.*
-- Show that disparities can be seen across organization type within the arts and cultural sector.
+    - *Visualization of total amount given by foundations, amount given by top 25 US foundation, and amount given to 2% of cultural orgs.*
+- Show that disparities can be seen in BIPOC-led organizations across artistic product within the arts and cultural sector.
     - *Visualization of BIPOC vs. mainstream top 25 dance, theatre, and museum organization's average surplus/deficit in each group*
 - Expand on disparities by exemplifying that they don't only run along racial lines; there are also clear disparities in monies awarded based on organizational size and community makeup.
     - *Visualization showing different in funding for large vs. small organizations and how that relates to the percentage of all organizations those budget allocations make up        in the arts and culture ecosystem*
