@@ -77,7 +77,7 @@ Candid. “Arts Funding More Concentrated Among Largest Institutions.” Philant
 
 NPTrust. “Charitable Giving Statistics.” Accessed November 9, 2021. https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/.
 
-Culture Track. “Culture Track Reports | Explore Culture Track Reports from Years Past.” Accessed November 10, 2021. https://culturetrack.com/research/reports/.
+Culture Track. “Culture Track Reports: Explore Culture Track Reports from Years Past.” Accessed November 10, 2021. https://culturetrack.com/research/reports/.
 
 “Diversity-in-the-Arts-The-Past-Present-and-Future-of-African-American-and-Latino-Museums-Dance-Companies-and-Theater-Companies-FINAL.Pdf.” Accessed November 10, 2021. https://www.mcknight.org/wp-content/uploads/Diversity-in-the-Arts-The-Past-Present-and-Future-of-African-American-and-Latino-Museums-Dance-Companies-and-Theater-Companies-FINAL.pdf.
 
