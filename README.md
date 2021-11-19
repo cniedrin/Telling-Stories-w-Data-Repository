@@ -35,5 +35,7 @@ Click [here](final_project1_cniedrin.md) to view Part I of my final project incl
 
 ### Final Project Part II
 
+Click [here](final_project2_cniedrin.md) to view Part II of my final project including storyboard, visualization wireframes, and user research.
+
 ### Final Project Part III
 
