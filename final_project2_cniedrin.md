@@ -24,5 +24,7 @@ Targeting these two audiences seems to most likely approach to affect real chang
 My approach in identifying interviewees is to find people whose opinions I trust as far as giving me feedback, and also people who are somewhat representative of the audience I seek to reach. This might include potential donors like my family or close friends, who could speak to whether my presentation is persuasive enough to make them consider learning more and donating to smaller, communtity organizations. I might also solicit the advice of friends in my Arts Management cohort who know something about arts and culture philanthropy who can speak to whether my presentation is persuasive enough to change the practices of current organizations. This way, I am accessing both target audiences in a reasonable way, while still getting opinions from people who I know will give me valid feedback and suggestions. 
 
 **c. Questions for the Interviews**
+
 **d. Interview Findings**
+
 **e. Planned Changes to Implement**
