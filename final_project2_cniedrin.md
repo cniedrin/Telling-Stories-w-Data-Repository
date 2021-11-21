@@ -25,6 +25,18 @@ My approach in identifying interviewees is to find people whose opinions I trust
 
 **c. Questions for the Interviews**
 
+For the interviews, I wanted to make sure that I was getting the most useful information back from my interviewees. In order to do that, I created a list of goals that I wanted to acheive with this project, and then created questions that I felt would help me understand whether I was reaching those intended goals or not. Then during the feedback sessions, the interviewee would be shown the presentation draft and asked each question in order to determine their thoughts and reactions to the overall flow of information and quality of visualizations. 
+
+The following table details the goals and interview questions.
+
+| Goals | Questions |
+| ----- | --------- |
+|Story effectively conveys main ideas to the audience | What do you see as the main ideas of this presentation? |
+| Create a clear flow of information | Did you find the presentation clear? Why or why not? |
+| Visualizations are clear, understandable, and enhance the story | What did you think of the visualizations in this presentation? |
+| Persuade the audience to learn more or potentially change giving behavior | What about this presentation did you find the most persuasive? What elements could have persuaded you more, if anything? |
+| Receive constructive criticism | What else did you like or dislike about this presentation? What, if anything, would you change? |
+
 **d. Interview Findings**
 
 **e. Planned Changes to Implement**
