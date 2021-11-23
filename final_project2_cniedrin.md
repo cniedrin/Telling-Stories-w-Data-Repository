@@ -39,6 +39,8 @@ The following table details the goals and interview questions.
 
 **d. Interview Findings**
 
+[text](T
+
 **e. Planned Changes to Implement**
 
 There are several things I want to change based on the feedback I recieved from my interviewees. As seen in the above responses, there were some common themes that kept showing up across all of my interviews and I am prioritzing the following changes.
