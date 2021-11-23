@@ -41,7 +41,7 @@ The following table details the goals and interview questions.
 
 The following chart details the results of my interviews. 
 
-[text](TSwD - Final Project User Research.xlsx)
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_kpkhawWNRSw8zj5QIuZPvELGgC_DBDpLgSwVodJVpL8n7dRYBZgPoGosNrZ0wAVea2RkxiiBS4WX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 From these interviews I learned that there were a few categories in which my feedback fell:
 - Titles and Labels of charts
