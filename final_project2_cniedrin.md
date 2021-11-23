@@ -39,7 +39,15 @@ The following table details the goals and interview questions.
 
 **d. Interview Findings**
 
-[text](T
+The following chart details the results of my interviews. 
+
+[text](TSwD - Final Project User Research.xlsx)
+
+From these interviews I learned that there were a few categories in which my feedback fell:
+- Titles and Labels of charts
+- Connection of information between sections
+- Context for visualizations
+- Clear connection for Call to Action
 
 **e. Planned Changes to Implement**
 
