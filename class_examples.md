@@ -17,7 +17,7 @@ These represent two exercises completed in class during the Mini. They are unrel
 ### Navigation
 [Home](Telling-Stories-w-Data-Repository)
 
-[Visualization Assignment #2] (visualization1.md)
+[Visualization Assignment #2](visualization1.md)
 
 [Visualization & Critique Assignment #3 & 4](visualization2.md)
 
