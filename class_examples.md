@@ -15,7 +15,7 @@ These represent two exercises completed in class during the Mini. They are unrel
 </script>
 
 ### Navigation
-[Home](Telling-Stories-w-Data-Repository)
+[Home](README.md)
 
 [Visualization Assignment #2](visualization1.md)
 
