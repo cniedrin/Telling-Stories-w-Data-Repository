@@ -103,3 +103,17 @@ Based on user feedback and my own brainstorming, I believe the heat map table of
 Additionally, I chose this chart type so the rows and columns would be close enough together to easily compare across majors. One can compare Architecture and Education, on opposite ends of the chart, as easily as Architecture and Arts which are right next to each other. That is one of the greatest strengths of this visualization that I wasn't able to replicate with a different type of chart, such as a grouped bar chart, as it spread the infomration out too much to make comparions.
 
 Overall, I feel that this visualization is much stronger than the original in terms of clarity, and is also much more pleasing aesthetically.
+
+### Navigation
+
+[Home](Telling-Stories-w-Data-Repository)
+
+[Visualization Class Examples](class_examples.md)
+
+[Visualization Assignment #2](visualization1.md)
+
+[Final Project Part I](final_project1_cniedrin.md)
+
+[Final Project Part II](final_project2_cniedrin.md)
+
+[Final Project Part III](final_project3_cniedrin.md)
