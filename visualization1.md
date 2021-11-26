@@ -46,7 +46,7 @@ Sources:
 ### Navigation ###
 [Home](Telling-Stories-w-Data-Repository)
 
-[Visualization Class Examples]
+[Visualization Class Examples](class_examples.md)
 
 [Visualization & Critique Assignment #3 & 4](visualization2.md)
 
