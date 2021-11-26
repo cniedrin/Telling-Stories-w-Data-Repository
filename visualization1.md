@@ -1,3 +1,5 @@
+# Visualization Assignment #2
+
 ## Part I: Working with web-based visualization tools and data
 
 This visualization shows the a visualization created directly on the OECD website. 
@@ -49,3 +51,7 @@ Sources:
 [Visualization & Critique Assignment #3 & 4](visualization2.md)
 
 [Final Project Part I](final_project1_cniedrin.md)
+
+[Final Project Part II](final_project2_cniedrin.md)
+
+[Final Project Part III](final_project3_cniedrin.md)
