@@ -13,3 +13,16 @@ These represent two exercises completed in class during the Mini. They are unrel
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+### Navigation
+[Home](Telling-Stories-w-Data-Repository)
+
+[Visualization Assignment #2] (visualization1.md)
+
+[Visualization & Critique Assignment #3 & 4](visualization2.md)
+
+[Final Project Part I](final_project1_cniedrin.md)
+
+[Final Project Part II](final_project2_cniedrin.md)
+
+[Final Project Part III](final_project3_cniedrin.md)
