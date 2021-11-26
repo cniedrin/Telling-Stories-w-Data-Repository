@@ -106,7 +106,7 @@ Overall, I feel that this visualization is much stronger than the original in te
 
 ### Navigation
 
-[Home](Telling-Stories-w-Data-Repository)
+[Home](README.md)
 
 [Visualization Class Examples](class_examples.md)
 
