@@ -43,4 +43,9 @@ Sources:
 
 ### Navigation ###
 [Home](Telling-Stories-w-Data-Repository)
+
+[Visualization Class Examples]
+
 [Visualization & Critique Assignment #3 & 4](visualization2.md)
+
+[Final Project Part I](final_project1_cniedrin.md)
