@@ -44,7 +44,7 @@ Sources:
 [5] Ibid.
 
 ### Navigation ###
-[Home](Telling-Stories-w-Data-Repository)
+[Home](README.md)
 
 [Visualization Class Examples](class_examples.md)
 
