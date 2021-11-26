@@ -95,7 +95,7 @@ Stelter, Nathan. “Giving USA 2021: Inside the Numbers,” June 15, 2021. https
 
 ### Navigation
 
-[Home](Telling-Stories-w-Data-Repository)
+[Home](README.md)
 
 [Visualization Class Examples](class_examples.md)
 
