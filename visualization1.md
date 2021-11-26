@@ -41,3 +41,5 @@ Sources:
 
 [5] Ibid.
 
+### Navigation ###
+[Home](Telling-Stories-w-Data-Repository)
