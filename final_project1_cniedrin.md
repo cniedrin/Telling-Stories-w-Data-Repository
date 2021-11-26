@@ -92,3 +92,17 @@ Race to Lead. “Nonprofits Led by People of Color Win Less Grant Money With Mor
 “NotJustMoney_Full_Report_July2017.Pdf.” Accessed November 10, 2021. http://notjustmoney.us/docs/NotJustMoney_Full_Report_July2017.pdf.
 
 Stelter, Nathan. “Giving USA 2021: Inside the Numbers,” June 15, 2021. https://blog.stelter.com/2021/06/15/giving-usa-2021-inside-the-numbers/.
+
+### Navigation
+
+[Home](Telling-Stories-w-Data-Repository)
+
+[Visualization Class Examples](class_examples.md)
+
+[Visualization Assignment #2](visualization1.md)
+
+[Visualization & Critique Assignment #3 & 4](visualization2.md)
+
+[Final Project Part II](final_project2_cniedrin.md)
+
+[Final Project Part III](final_project3_cniedrin.md)
