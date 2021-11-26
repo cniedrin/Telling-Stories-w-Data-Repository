@@ -1,4 +1,4 @@
-# Visualization Examples from Class#
+# Visualization Examples from Class
 
 [class visualization example](datavizexample.md)
 
