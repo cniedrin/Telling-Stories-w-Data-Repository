@@ -1,5 +1,11 @@
 # Final Project Part III
 
+## Project Link
+
+Click [here] to navigate to my finished Shorthand website. 
+
+## Project Reflection
+
 ### Navigation
 
 [Home](README.md)
