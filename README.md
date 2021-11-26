@@ -39,3 +39,4 @@ Click [here](final_project2_cniedrin.md) to view Part II of my final project inc
 
 ### Final Project Part III
 
+Click [here](final_project3_cniedrin.md0 to view Part III of my final project including my reflection on the process and link to the final website. 
