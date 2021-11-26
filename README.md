@@ -19,6 +19,10 @@ I'm looking forward to learning the creative and technical side of data visualiz
 
 # Portfolio
 
+## Visualization Examples from Class
+
+Click [here](class_examples.md) to view two class exercises created using Flourish and Tableau. 
+
 ## Visualization Assignment #2
 
 Click [here](visualization1.md) to view the visualization and analysis elements for the "Visualizing Government Debt" assignment.
