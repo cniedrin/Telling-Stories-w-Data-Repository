@@ -43,3 +43,4 @@ Sources:
 
 ### Navigation ###
 [Home](Telling-Stories-w-Data-Repository)
+[Visualization & Critique Assignment #3 & 4](visualization2.md)
