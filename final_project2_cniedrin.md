@@ -79,3 +79,17 @@ There are several things I want to change based on the feedback I recieved from 
 - Finally, althought I recognize this wasn't the focus of the storyboarding, I plan on working on the physical formatting of my project, as I am unhappy with the layout at the moment, and all three of my interviewees in some way commented on making some of those changes. I also have some unfinished imagery as I was focused more on getting my visualizations and overall structure laid out and didn't spend much time on images. These elements will help tie my project together and make it more aesthetically pleasing for the audience (and myself). 
 
 After focusing on these changes, I believe my project will be more aesthetically pleasing, will present more clear, understandable visualizations, and will allow audience members to actually do something actionable afterwards. 
+
+### Navigation
+
+[Home](README.md)
+
+[Visualization Class Examples](class_examples.md)
+
+[Visualization Assignment #2](visualization1.md)
+
+[Visualization & Critique Assignment #3 & 4](visualization2.md)
+
+[Final Project Part I](final_project1_cniedrin.md)
+
+[Final Project Part III](final_project3_cniedrin.md)
