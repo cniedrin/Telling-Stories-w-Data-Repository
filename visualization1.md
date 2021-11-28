@@ -2,7 +2,7 @@
 
 ## Part I: Working with web-based visualization tools and data
 
-This visualization shows the a visualization created directly on the OECD website. 
+This visualization shows a visualization created directly on the OECD website. 
 
 General Government Debt to GDP Ratio for 2020
 
@@ -10,14 +10,14 @@ General Government Debt to GDP Ratio for 2020
 
 ## Part II: Flourish
 
-### 1
+### 1.
 This first Flourish visualization is a grid of charts showing the changes over time in debt-to-GDP ratio from 1995 - 2020 for countries around the world. 
 
 Debt to GDP Ratio 1995-2020
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7654970"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### 2 
+### 2. 
 This second Flourish visualization is a population pyramid showing the change in debt-to-GDP ratios from 1995 to 2020 for countries around the world. It also highlights the U.S. change in ratios to point out how our ratio compares to the other countries. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7677265"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
