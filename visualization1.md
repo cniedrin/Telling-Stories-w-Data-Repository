@@ -45,6 +45,7 @@ Sources:
 [5] Ibid.
 
 ### Navigation ###
+
 [Home](README.md)
 
 [Visualization Class Examples](class_examples.md)
